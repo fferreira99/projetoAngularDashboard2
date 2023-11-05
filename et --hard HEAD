@@ -1,0 +1,35 @@
+[33mcommit 99b3bc16a4f15080e2409f12d455beb9081da766[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mprojetoAngularDashboard/main[m[33m)[m
+Author: Francisco <fferreira.tech@gmail.com>
+Date:   Tue Oct 31 19:40:12 2023 -0300
+
+    alterações importantes nas tabs
+
+[33mcommit 09d17c313460a92aea37e410458f85ab56dbef1b[m
+Author: Francisco <fferreira.tech@gmail.com>
+Date:   Mon Oct 30 19:49:56 2023 -0300
+
+    atualização nas tabs
+
+[33mcommit 25b7d8e0d9ace3836ddad38341b266772f9e5f78[m
+Author: Francisco <fferreira.tech@gmail.com>
+Date:   Fri Oct 27 20:48:41 2023 -0300
+
+    mais algumas poucas alterações
+
+[33mcommit 39ab6777837ba3bc142f0d698995045ba572d6cc[m
+Author: Francisco Ferreira <fferreira.tech@gmail.com>
+Date:   Wed Oct 25 21:44:42 2023 -0300
+
+    Adicionei o footer e fiz outras pequenas alterações
+
+[33mcommit 905aacb244089c669b2b43f78232b3f936b0bf04[m
+Author: ADS 2022.2N <36124872022.2N@senacrjedu.local>
+Date:   Wed Oct 25 19:56:10 2023 -0300
+
+    Atualização do header
+
+[33mcommit 7fc172edaf4422aa3670dbe9f809bed8789300d5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Francisco Ferreira <fferreira.tech@gmail.com>
+Date:   Tue Oct 24 23:38:52 2023 -0300
+
+    Primeiro commit - semente do projeto
