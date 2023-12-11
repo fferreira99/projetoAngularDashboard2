@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, EventEmitter } from '@angular/core';
 
 @Component({
   selector: 'app-historico-de-coletas',
@@ -6,5 +6,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./historico-de-coletas.component.css']
 })
 export class HistoricoDeColetasComponent {
+  popupAberto = false;
+
+  abrirPopup() {
+    this.popupAberto = true;
+  }
+
+  fecharPopupEvent: EventEmitter<void> = new EventEmitter<void>(); 
+  fecharPopup() {
+    this.fecharPopupEvent.emit();
+  }
 
 }

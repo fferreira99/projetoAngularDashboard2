@@ -1,5 +1,33 @@
+
+.mapa-de-coletas {
+    width: 100%; /* Ajuste a largura para 80% da largura do elemento pai */
+    max-width: 650px; /* Defina uma largura máxima para evitar que o elemento fique muito largo */
+    height: 70vh; /* Ajuste a altura para 70% da altura da viewport */
+    background-color: #A9C685;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+#titulo, #texto-rodape {
+    width: 100%; /* Ajuste a largura para ocupar 100% da largura do elemento pai */
+}
+
+#minimapa-inerativo {
+    background-color: #f4f1e9;
+    width: 90%; /* Ajuste a largura para 90% da largura do elemento pai */
+    height: 60%; /* Ajuste a altura para 60% da altura do elemento pai */
+    border-radius: 3px;
+    margin: 5px 0px 5px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .mapa-de-coletas{
-    width: 450px;
+    width: 650px;
     height: 500px;
     background-color:#A9C685;  
     border-radius: 5px;
@@ -18,7 +46,7 @@
 
 #minimapa-inerativo{
     background-color:#f4f1e9;
-    width: 425px;
+    width: 625px;
     height: 395px;
     border-radius: 3px;
     margin: 5px 0px 5px 0px;
@@ -34,6 +62,8 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: medium;
     font-weight: 500;
+    display: flex;
+    justify-content: center;
 }
 
 #texto-comum2{
@@ -42,6 +72,8 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size:smaller;
     font-weight: 450;
+    display: flex;
+    justify-content: center;
 }
 
 .padrao1{

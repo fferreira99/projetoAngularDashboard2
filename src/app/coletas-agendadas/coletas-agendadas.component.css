@@ -1,9 +1,10 @@
 /*CSS - Coletas Agendadas: início.*/
 #coletas-agendadas{
-    width: 450px;
+    width: 500px;
     height: 500px;
     background-color: #A9C685;  
     border-radius: 5px;
+    margin-bottom: 15px;
 }
 
 /*Textos - Início:*/
